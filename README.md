@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://personal-portolio-web.vercel.app/">devanshsahni</a></h2>
+<h2 align="center">Personal Portfolio Akshay Pratap Singh<br/> <a target="_blank" href="https://personal-portolio-web.vercel.app/">devanshsahni</a></h2>
 
 <br/>
 
